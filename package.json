@@ -1,0 +1,16 @@
+{
+  "name": "mongoose_advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.13.2",
+    "nodemon": "^3.1.9"
+  }
+}
